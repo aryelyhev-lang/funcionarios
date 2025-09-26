@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.h2 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+
+
+
+}
+
+main {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 80vh;
+
+}
+
+h1 {
+    text-align: 10px;
+    margin: 50px;
+    background-color: rgb(152, 116, 171);
+}
+
+
+img {
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    width: 120px;
+    height: 130px;
+
+}
+
+.Funcionario {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    display: flex;
+    margin: 10px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 50px;
+    font-size: 40px;
+    font-style: alice;
+    background-color: rgb(14, 14, 125);
+    color: white;
+
+}
